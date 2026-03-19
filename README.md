@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Equipo 0X - Nombre del curso
 ### Carrera de Ingeniería Ambiental / Informática / Industrial  
 **Universidad Peruana Cayetano Heredia**
@@ -39,3 +40,6 @@ Nos interesa trabajar en los siguientes **Objetivos de Desarrollo Sostenible (OD
 
 ## 📌 Resumen Final  
 Este README resume quiénes somos, qué nos motiva y en qué ODS queremos enfocar nuestro trabajo durante el curso.  
+=======
+# FdD_Equipo_04
+>>>>>>> 70bf06f72225c9e52bc806a71e9c7f0a87c37ded
