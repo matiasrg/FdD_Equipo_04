@@ -13,7 +13,12 @@ ODS 12: Producción y consumo responsable
 ODS 13: Acción por el clima
 
 #  📸 Fotografia del equipo 
-Figura 1. Fotografia del Equipo 4
+<p align="center">
+<img width="1408" height="768" alt="imagen.d" src="" />
+  <em>
+  Figura 1. Fotografia del Equipo 4
+</p>
+
 
 #  👥  Integrantes del equipo 
 
