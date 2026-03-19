@@ -28,7 +28,7 @@ ODS 13: Acción por el clima
 | ---- | Jesilin | Responsable de investigación | Gestión ambiental, desarrollo comunitario | 
 | ---- | Matías | Lider del grupo | Innovación social, sostenibilidad | 
 | ---- | Adriana | Diseñadora | Comunicación científica, redacción técnica | 
-| ---- | Jose | Encargado/a de documentación | Comunicación científica, redacción técnica | 
+| ---- | Jose | Encargado/a de documentación | documentación científica, redacción técnica | 
 
 # 📌Resumen final 
 Este README resume quiénes somos, qué nos motiva y en qué ODS queremos enfocar nuestro trabajo durante el curso
