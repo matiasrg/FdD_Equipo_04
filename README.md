@@ -19,7 +19,7 @@ Figura 1. Fotografia del Equipo 4
 
 | Foto | Nombre | Rol | Intereses | 
 | ---- | ------ | --- | --------- | 
-| ---- | Saori | Programador | Programación, análisis de datos, simulación | 
+| ---- | Saori | Programador | Programación, análisis de datos, prototipado | 
 | ---- | Jesilin | Responsable de investigación | Gestión ambiental, desarrollo comunitario | 
 | ---- | Matías | Lider del grupo | Innovación social, sostenibilidad | 
 | ---- | Adriana | Diseñadora | Comunicación científica, redacción técnica | 
