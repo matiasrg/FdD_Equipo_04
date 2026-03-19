@@ -27,7 +27,7 @@ ODS 13: Acción por el clima
 | ---- | Saori | Programador | Programación, análisis de datos, prototipado | 
 | ---- | Jesilin | Responsable de investigación | Gestión ambiental, desarrollo comunitario | 
 | ---- | Matías | Lider del grupo | Innovación social, sostenibilidad | 
-| ---- | Adriana | Diseñadora | Comunicación científica, redacción técnica | 
+| ---- | Adriana | Diseñadora | Prototipo y maquetas | Creatividad estetica |
 | ---- | Jose | Encargado/a de documentación | documentación científica, redacción técnica | 
 
 # 📌Resumen final 
