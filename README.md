@@ -3,7 +3,7 @@
 Carrera de Ingenieria Ambiental/ Informática / Industrial
 Universidad Peruana Cayetano Heredia 
 
-# Descripción del grupo
+# 🌎 Descripción del grupo
 Somos el equipo 04 del curso *Fundamentos de diseño 2026-01*, ingenieria Ambiental, Informatica, Industrial. 
 Nuestro objetivo es aplicar la metodología de diseño para generar soluciones innovadoras con impacto social, tecnológico y ambiental.
 Nos interesa trabajar en los siguientes Objetivos de Desarrollo Sostenible (ODS):
@@ -12,10 +12,10 @@ ODS 3: Salud y Bienestar
 ODS 6: Agua Limpia y Saneamiento
 ODS 9: Industria, Innovación e Infraestructura
 
-# Fotografia del equipo 
+#  📸 Fotografia del equipo 
 Figura 1. Fotografia del Equipo 4
 
-# Integrantes del equipo 
+#  👥  Integrantes del equipo 
 
 | Foto | Nombre | Rol | Intereses | 
 | ---- | ------ | --- | --------- | 
@@ -25,5 +25,5 @@ Figura 1. Fotografia del Equipo 4
 | ---- | Adriana | Diseñadora | Comunicación científica, redacción técnica | 
 | ---- | Jose | Encargado/a de documentación | Comunicación científica, redacción técnica | 
 
-# Resumen final 
+# 📌Resumen final 
 Este README resume quiénes somos, qué nos motiva y en qué ODS queremos enfocar nuestro trabajo durante el curso
