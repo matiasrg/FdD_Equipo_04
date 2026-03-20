@@ -19,7 +19,7 @@ ODS 13: Acción por el clima
 
 #  📸 Fotografia del equipo 
 <p align="center">
-<img width="1408" height="768" alt="imagen.dis" src="Recursos/Imágenes/imagen_dis.jpg" />
+<img width="1408" height="768" alt="imagen.dis" src="Recursos/Imágenes/" />
   <em>
   Figura 1. Fotografia del Equipo 4
 </p>
