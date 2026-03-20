@@ -4,7 +4,7 @@ Carrera de Ingenieria Ambiental/ Informática / Industrial
 Universidad Peruana Cayetano Heredia 
 
 # 🌎 Descripción del grupo
-Somos el equipo 04 del curso *Fundamentos de diseño 2026-01*, ingenieria Ambiental, Informatica, Industrial. 
+Somos el equipo 04 del curso *Fundamentos de diseño 2026-01*, ingenieria Informatica, Ambiental, Industrial. 
 Nuestro objetivo es aplicar la metodología de diseño para generar soluciones innovadoras con impacto social, tecnológico y ambiental.
 Nos interesa trabajar en los siguientes Objetivos de Desarrollo Sostenible (ODS):
 
