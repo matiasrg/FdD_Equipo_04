@@ -29,7 +29,7 @@ ODS 13: Acción por el clima
 
 | Foto | Nombre | Rol | Intereses | 
 | ---- | ------ | --- | --------- | 
-| <img width="1408" height="768" alt="saori" src="Recursos/Imágenes/saori.jpg" /> | Saori | Programador | Programación, análisis de datos, prototipado | 
+| <img width="1408" height="768" alt="saori" src="Recursos/Imágenes/jpg" /> | Saori | Programador | Programación, análisis de datos, prototipado | 
 | ---- | Jesilin | Responsable de investigación | Analisis de problemáticas, Enfoque de soluciones responsables | 
 | ---- | Matías | Lider del grupo | Innovación social, sostenibilidad | 
 | ---- | Adriana | Diseñadora | Prototipo y maquetas | Creatividad estetica |
