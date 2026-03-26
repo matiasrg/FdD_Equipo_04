@@ -17,7 +17,7 @@ El ESP32 ya integra WiFi/Bluetooth para apps móviles (como Blynk o MIT App Inve
 3. Analizar la situación del problema.
 En el Perú, la radiación alta por nubosidad engañosa (sensación térmica bochornosa), humedad costera y calor urbano afectan a 70% de jóvenes sin hábitos preventivos; ODS 13 aplica por adaptación climática, ODS 7 por recarga solar (reduce baterías desechables), ODS 12 por diseño modular; competidores como apps genéricas (SENAMHI) no son portátiles ni personalizadas.
 4. Comprobar las posibilidades de realización.
-Con respecto a los costos, esto es viable con ESP32 (costo ~$10), sensores (~$5 c/u), panel solar TP4056 (~$3) y app gratuita; prototipo en 2 semanas con Arduino IDE; pruebas en Lima confirman precisión (DHT22 ±2%, SI1145 UVI ±10%); limitantes: batería dura 48h sin sol, pero solar cubre uso diario; 90% factible con componentes locales (Mercado Libre Perú).
+Con respecto a los costos, esto es viable con ESP32 (costo ~$10), sensores ($5 c/u), panel solar TP4056 ($3) y app gratuita; prototipo en 2 semanas con Arduino IDE; pruebas en Lima confirman precisión (DHT22 ±2%, SI1145 UVI ±10%); limitantes: batería dura 48h sin sol, pero solar cubre uso diario; 90% factible con componentes locales (Mercado Libre Perú).
 <br>
 
 # 🌎 Descripción del grupo
