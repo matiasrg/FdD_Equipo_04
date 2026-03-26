@@ -8,7 +8,7 @@ Universidad Peruana Cayetano Heredia
 La idea del proyecto es un aparato que tenga sensores de temperatura, humedad y radiación. Estos se comunican mediante el ESP32 a una aplicación móvil que da recomendaciones al usuario de tipo "recuerda aplicar bloqueador" o "no olvides tu abrigo".
 <br>
 <br>
-<strong> Listas de exigencias que debemos cumplir <strong>
+<strong> Listas de exigencias que debemos cumplir: <strong>
 <br>
 1. Asumir el problema en forma crítica.
 Estudiantes universitarios el Perú caminan mucho entre clases y paraderos bajo radiación UV extrema (índice 11+), humedad del 80% y temperaturas de 28-33°C, lo que causa quemaduras, deshidratación o golpes de calor; el problema es crítico porque no usan protección por falta de alertas inmediatas, agravado por el cambio climático que intensifica estos riesgos en la costa peruana.
