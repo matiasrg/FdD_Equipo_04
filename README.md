@@ -4,6 +4,21 @@
 <br>
 Universidad Peruana Cayetano Heredia 
 
+# 📚 Descripción del proyecto
+La idea del proyecto es un aparato que tenga sensores de temperatura, humedad y radiación. Estos se comunican mediante el ESP32 a una aplicación móvil que da recomendaciones al usuario de tipo "recuerda aplicar bloqueador" o "no olvides tu abrigo".
+<br>
+Listas de exigencias que debemos cumplir 
+<br>
+1. Asumir el problema en forma crítica.
+Estudiantes universitarios el Perú caminan mucho entre clases y paraderos bajo radiación UV extrema (índice 11+), humedad del 80% y temperaturas de 28-33°C, lo que causa quemaduras, deshidratación o golpes de calor; el problema es crítico porque no usan protección por falta de alertas inmediatas, agravado por el cambio climático que intensifica estos riesgos en la costa peruana.
+2. Averiguar el estado de la tecnología.
+El ESP32 ya integra WiFi/Bluetooth para apps móviles (como Blynk o MIT App Inventor), sensores como DHT22 (temperatura/humedad), SI1145 (UV/radiación) y paneles solares pequeños (5V/1W) son maduros y baratos (en caso de que usemos energías renovables); apps dan notificaciones push en tiempo real, con ejemplos como wearables UV (UVI Monitor) o estaciones meteorológicas portátiles, pero faltan soluciones integrales solares y locales para Perú.
+3. Analizar la situación del problema.
+En el Perú, la radiación alta por nubosidad engañosa (sensación térmica bochornosa), humedad costera y calor urbano afectan a 70% de jóvenes sin hábitos preventivos; ODS 13 aplica por adaptación climática, ODS 7 por recarga solar (reduce baterías desechables), ODS 12 por diseño modular; competidores como apps genéricas (SENAMHI) no son portátiles ni personalizadas.
+4. Comprobar las posibilidades de realización.
+Con respecto a los costos, esto es viable con ESP32 (costo ~$10), sensores (~$5 c/u), panel solar TP4056 (~$3) y app gratuita; prototipo en 2 semanas con Arduino IDE; pruebas en Lima confirman precisión (DHT22 ±2%, SI1145 UVI ±10%); limitantes: batería dura 48h sin sol, pero solar cubre uso diario; 90% factible con componentes locales (Mercado Libre Perú).
+<br>
+
 # 🌎 Descripción del grupo
 Somos el equipo 04 del curso <strong> Fundamentos de diseño 2026-01 </strong>, ingenieria Informatica/Ambiental/Industrial. 
 <br>
@@ -46,20 +61,7 @@ Queremos enfocarnos en combatir los efectos del cambio climático que afectan la
 | <img src="Recursos/Imágenes/imagenadriana.jpeg" width="100" /> | Adriana | Diseñadora | Prototipo y maquetas | Creatividad estetica |
 | <img src="Recursos/Imágenes/jose.png" width="100" /> | Jose | Encargado/a de documentación | documentación científica, redacción técnica | 
 
-# Proyecto
-La idea del proyecto es un aparato que tenga sensores de temperatura, humedad y radiación. Estos se comunican mediante el ESP32 a una aplicación móvil que da recomendaciones al usuario de tipo "recuerda aplicar bloqueador" o "no olvides tu abrigo".
-<br>
-Listas de exigencias que debemos cumplir 
-<br>
-1. Asumir el problema en forma crítica.
-Estudiantes universitarios el Perú caminan mucho entre clases y paraderos bajo radiación UV extrema (índice 11+), humedad del 80% y temperaturas de 28-33°C, lo que causa quemaduras, deshidratación o golpes de calor; el problema es crítico porque no usan protección por falta de alertas inmediatas, agravado por el cambio climático que intensifica estos riesgos en la costa peruana.
-2. Averiguar el estado de la tecnología.
-El ESP32 ya integra WiFi/Bluetooth para apps móviles (como Blynk o MIT App Inventor), sensores como DHT22 (temperatura/humedad), SI1145 (UV/radiación) y paneles solares pequeños (5V/1W) son maduros y baratos (en caso de que usemos energías renovables); apps dan notificaciones push en tiempo real, con ejemplos como wearables UV (UVI Monitor) o estaciones meteorológicas portátiles, pero faltan soluciones integrales solares y locales para Perú.
-3. Analizar la situación del problema.
-En el Perú, la radiación alta por nubosidad engañosa (sensación térmica bochornosa), humedad costera y calor urbano afectan a 70% de jóvenes sin hábitos preventivos; ODS 13 aplica por adaptación climática, ODS 7 por recarga solar (reduce baterías desechables), ODS 12 por diseño modular; competidores como apps genéricas (SENAMHI) no son portátiles ni personalizadas.
-4. Comprobar las posibilidades de realización.
-Con respecto a los costos, esto es viable con ESP32 (costo ~$10), sensores (~$5 c/u), panel solar TP4056 (~$3) y app gratuita; prototipo en 2 semanas con Arduino IDE; pruebas en Lima confirman precisión (DHT22 ±2%, SI1145 UVI ±10%); limitantes: batería dura 48h sin sol, pero solar cubre uso diario; 90% factible con componentes locales (Mercado Libre Perú).
-<br>
+
 
 # 📌Resumen final 
 Este README resume quiénes somos, qué nos motiva y en qué ODS queremos enfocar nuestro trabajo durante el curso
