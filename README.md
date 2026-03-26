@@ -18,6 +18,7 @@ Para que nuestra propuesta sea coherente con el cuidado del planeta, buscamos qu
 ODS 12: Producción y consumo responsable.
 <br>
 Nuestra prioridad es prolongar la vida útil del equipo. En lugar de crear un producto desechable, nos inclinamos por un diseño reparable y reacondicionable. Esto significa que el aparato estará pensado para que sus piezas puedan ser revisadas o cambiadas fácilmente si se desgastan. Al evitar que el dispositivo se convierta en basura tecnológica prematura, fomentamos un consumo responsable donde la durabilidad es la característica principal, asegurando que la inversión de la comunidad rinda por mucho más tiempo.
+
 <br>
 ODS 13: Acción por el clima
 <br>
