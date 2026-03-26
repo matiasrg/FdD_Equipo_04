@@ -43,7 +43,7 @@ Queremos enfocarnos en combatir los efectos del cambio climático que afectan la
 | <img src="Recursos/Imágenes/saori.jpg" width="100" /> | Saori | Programador | Programación, análisis de datos, prototipado | 
 | <img src="Recursos/Imágenes/imagenjes.jpeg" width="100" />| Jesilin | Responsable de investigación | Analisis de problemáticas, Enfoque de soluciones responsables | 
 | ---- | Matías | Lider del grupo | Innovación social, sostenibilidad | 
-| ---- | Adriana | Diseñadora | Prototipo y maquetas | Creatividad estetica |
+| <img src="Recursos/Imágenes/imagenadriana.jpeg" width="100" /> | Adriana | Diseñadora | Prototipo y maquetas | Creatividad estetica |
 | <img src="Recursos/Imágenes/jose.png" width="100" /> | Jose | Encargado/a de documentación | documentación científica, redacción técnica | 
 
 # Proyecto
