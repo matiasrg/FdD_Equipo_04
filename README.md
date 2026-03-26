@@ -10,11 +10,18 @@ Somos el equipo 04 del curso <strong> Fundamentos de diseño 2026-01 </strong>, 
 Nuestro objetivo es aplicar la metodología de diseño para generar soluciones innovadoras con impacto social, tecnológico y ambiental.
 Nos interesa trabajar en los siguientes Objetivos de Desarrollo Sostenible (ODS):
 
-ODS 7: Energia asequible y no contaminante
+ODS 7: Energia asequible y no contaminante.
 <br>
-ODS 12: Producción y consumo responsable
+Para que nuestra propuesta sea coherente con el cuidado del planeta, buscamos que el funcionamiento del equipo sea autosustentable. En lugar de depender de baterías desechables o de una conexión a la red eléctrica tradicional, queremos aprovechar la energía del sol. Al usar fuentes renovables para alimentar el sistema de medición, aseguramos que la solución sea limpia y que pueda funcionar en cualquier lugar abierto, sin generar costos de luz ni contaminación adicional.
+
+<br>
+ODS 12: Producción y consumo responsable.
+<br>
+Nuestra prioridad es prolongar la vida útil del equipo. En lugar de crear un producto desechable, nos inclinamos por un diseño reparable y reacondicionable. Esto significa que el aparato estará pensado para que sus piezas puedan ser revisadas o cambiadas fácilmente si se desgastan. Al evitar que el dispositivo se convierta en basura tecnológica prematura, fomentamos un consumo responsable donde la durabilidad es la característica principal, asegurando que la inversión de la comunidad rinda por mucho más tiempo.
 <br>
 ODS 13: Acción por el clima
+<br>
+Queremos enfocarnos en combatir los efectos del cambio climático que afectan la salud física. Estamos expuestos constantemente a niveles de humedad y radiación que han dejado de ser normales. Nuestra intención es ofrecer una herramienta de protección que ayude a las personas a adaptarse a estos riesgos. Al transformar los datos del clima en alertas directas, permitimos que la gente tome acciones inmediatas para evitar daños por la exposición prolongada, enfrentando así las consecuencias reales del calentamiento global en nuestro entorno local.
 <br>
 
 #  📸 Fotografia del equipo 
