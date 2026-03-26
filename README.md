@@ -28,7 +28,7 @@ Nos interesa trabajar en los siguientes Objetivos de Desarrollo Sostenible (ODS)
 
 ODS 7: Energia asequible y no contaminante.
 <br>
-Para que nuestra propuesta sea coherente con el cuidado del planeta, buscamos que el funcionamiento del equipo sea autosustentable. En lugar de depender de baterías desechables o de una conexión a la red eléctrica tradicional, queremos aprovechar la energía del sol. Al usar fuentes renovables para alimentar el sistema de medición, aseguramos que la solución sea limpia y que pueda funcionar en cualquier lugar abierto, sin generar costos de luz ni contaminación adicional.
+Para que nuestra propuesta sea coherente, promueve el uso eficiente de la energía. Al medir temperatura, humedad y radiación, permite que los usuarios tomen decisiones como reducir el uso de aire acondicionado, calefacción o iluminación artificial, disminuyendo así el consumo energético.
 
 <br>
 ODS 12: Producción y consumo responsable.
