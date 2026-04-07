@@ -89,6 +89,7 @@ Queremos enfocarnos en combatir los efectos del cambio climático que afectan la
 | <img src="Recursos/Imágenes/jose.png" width="100" /> | Jose | Encargado/a de documentación | documentación científica, redacción técnica | 
 
 # Referencias 
-
+1. García-Delgado Giménez B, Revilla Guijarro A. Educación climática en la universidad: aplicación del Test CRAAP contra la desinformación. Rev Iberoam Educ. 2026;100(1):141-159.
+https://rieoei.org/RIE/article/view/7135
 # 📌Resumen final 
 Este README resume quiénes somos, qué nos motiva y en qué ODS queremos enfocar nuestro trabajo durante el curso
