@@ -12,8 +12,22 @@ Actualmente, se observa una creciente preocupación en la población respecto a 
 Frente a esta situación, se propone el desarrollo de un dispositivo equipado con sensores de humedad, temperatura y radiación, capaz de recopilar datos ambientales en tiempo real. Esta información será transmitida mediante un módulo ESP32 a una aplicación móvil, la cual brindará recomendaciones personalizadas al usuario, como por ejemplo: “Recuerda aplicar bloqueador”, contribuyendo así a una mejor prevención y cuidado de la salud.
 
 # Situación problemática
+En la actualidad, se evidencia una creciente problemática relacionada con la falta de acceso a información ambiental confiable y en tiempo real. Muchas personas no cuentan con datos precisos sobre variables como la temperatura, la humedad o la radiación solar, lo que dificulta la toma de decisiones informadas para el cuidado de su salud.
 
-Muchas personas no cuentan con información ambiental en tiempo real sobre factores como la temperatura, humedad y radiación solar, lo que dificulta la toma de decisiones para proteger su salud (ODS 3). Esta falta de información también favorece hábitos de consumo poco responsables, como el uso inadecuado de recursos (ODS 12), y limita la capacidad de adaptación frente a los cambios del clima y sus efectos cada vez más intensos (ODS 13).
+Esta situación se agrava en ciudades como Lima, donde los cambios climáticos suelen ser repentinos e impredecibles, generando confusión en la población sobre cómo prepararse antes de salir de casa. Como consecuencia, se incrementa la exposición a riesgos como la radiación solar, cambios bruscos de temperatura o condiciones ambientales inadecuadas que pueden afectar el bienestar físico.
+
+Además, la falta de información adecuada favorece la desinformación y limita la capacidad de las personas para tomar decisiones basadas en evidencia, ya que la información errónea o poco clara puede generar confusión, desconfianza y conductas inadecuadas frente al cuidado de la salud y el ambiente (García-Delgado Giménez & Revilla Guijarro, 2026).  ￼
+
+En este contexto, se identifica una brecha importante entre la disponibilidad de datos ambientales y su acceso comprensible y útil para la población, lo cual impacta directamente en la salud (ODS 3), el consumo responsable (ODS 12) y la acción frente al cambio climático (ODS 13).
+<br> 
+# Problema integrador
+<br>
+A pesar de la disponibilidad de tecnologías capaces de medir variables ambientales como la temperatura, humedad y radiación solar, actualmente no existen soluciones accesibles e integradas que permitan recopilar, procesar y comunicar esta información en tiempo real de manera clara y útil para los usuarios.
+
+Esta limitación impide que las personas tomen decisiones informadas sobre su cuidado diario, exponiéndolas a riesgos prevenibles y dificultando su adaptación a las condiciones climáticas cambiantes.
+
+Por ello, surge la necesidad de desarrollar un sistema tecnológico que integre sensores ambientales con una plataforma digital capaz de transformar los datos obtenidos en recomendaciones prácticas, contribuyendo así a mejorar la calidad de vida y fomentar una mayor conciencia ambiental.
+
 
 # Presentación de la solución 
 
