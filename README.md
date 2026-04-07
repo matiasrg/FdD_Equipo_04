@@ -4,7 +4,14 @@
 <br>
 Universidad Peruana Cayetano Heredia 
 
-# 📚 Descripción del proyecto
+# Introducción
+
+# Situación problemática
+
+Muchas personas no cuentan con información ambiental en tiempo real sobre factores como la temperatura, humedad y radiación solar, lo que dificulta la toma de decisiones para proteger su salud (ODS 3). Esta falta de información también favorece hábitos de consumo poco responsables, como el uso inadecuado de recursos (ODS 12), y limita la capacidad de adaptación frente a los cambios del clima y sus efectos cada vez más intensos (ODS 13).
+
+# Presentación de la solución 
+
 La idea del proyecto es un aparato que tenga sensores de temperatura, humedad y radiación. Estos se comunican mediante el ESP32 a una aplicación móvil que da recomendaciones al usuario de tipo "recuerda aplicar bloqueador" o "no olvides tu abrigo".
 <br>
 <br>
@@ -62,7 +69,7 @@ Queremos enfocarnos en combatir los efectos del cambio climático que afectan la
 | <img src="Recursos/Imágenes/imagenadriana.jpeg" width="100" /> | Adriana | Diseñadora | Prototipo y maquetas | Creatividad estetica |
 | <img src="Recursos/Imágenes/jose.png" width="100" /> | Jose | Encargado/a de documentación | documentación científica, redacción técnica | 
 
-
+# Referencias 
 
 # 📌Resumen final 
 Este README resume quiénes somos, qué nos motiva y en qué ODS queremos enfocar nuestro trabajo durante el curso
