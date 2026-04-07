@@ -5,6 +5,11 @@
 Universidad Peruana Cayetano Heredia 
 
 # Introducción
+<br>
+<br>
+Actualmente, se observa una creciente preocupación en la población respecto a la desinformación o al escaso conocimiento sobre las condiciones climáticas, lo cual puede generar consecuencias en la salud, especialmente en la aparición o agravamiento de enfermedades. En ciudades como Lima, esta problemática se acentúa debido a los cambios climáticos repentinos e impredecibles, que dificultan que las personas sepan cómo prepararse adecuadamente antes de salir de casa.
+
+Frente a esta situación, se propone el desarrollo de un dispositivo equipado con sensores de humedad, temperatura y radiación, capaz de recopilar datos ambientales en tiempo real. Esta información será transmitida mediante un módulo ESP32 a una aplicación móvil, la cual brindará recomendaciones personalizadas al usuario, como por ejemplo: “Recuerda aplicar bloqueador”, contribuyendo así a una mejor prevención y cuidado de la salud.
 
 # Situación problemática
 
