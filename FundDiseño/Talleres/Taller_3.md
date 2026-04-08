@@ -1,4 +1,6 @@
-
+# Introducción
+# Propuesta de solución
+# Objetivos
 # Lista de citas para el proyecto
 <br>
 1. García-Delgado Giménez B, Revilla Guiijarro A. Educación climática en la universidad: aplicación del Test CRAAP contra la desinformación. RIEOEI [Internet]. 30 de enero de 2026 [citado 8 de abril de 2026];100(1):141-59. 
