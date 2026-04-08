@@ -13,7 +13,7 @@ Frente a esta problemática, el presente proyecto propone el desarrollo de un di
 # Propuesta de solución
 # Objetivos
 ## Objetivo general
-
+Diseñar e implementar un prototipo capaz de registrar y monitorear mediciones ambientales locales mediante sensores de temperatura, humedad y radiación UV integrados a un microcontrolador ESP32, y vinculado a una aplicación móvil que procese estos datos en tiempo real para brindar recomendaciones personalizadas de protección y prevención a los usuarios, promoviendo el cuidado de la salud y la toma de decisiones informadas frente a condiciones ambientales adversas.
 ## Objetivos especificos
 1. Asumir el problema en forma crítica: Estudiantes universitarios el Perú caminan mucho entre clases y paraderos bajo radiación UV extrema (índice 11+), humedad del 80% y temperaturas de 28-33°C, lo que causa quemaduras, deshidratación o golpes de calor; el problema es crítico porque no usan protección por falta de alertas inmediatas, agravado por el cambio climático que intensifica estos riesgos en la costa peruana.
 2. Averiguar el estado de la tecnología: El ESP32 ya integra WiFi/Bluetooth para apps móviles (como Blynk o MIT App Inventor), sensores como DHT22 (temperatura/humedad), SI1145 (UV/radiación); apps dan notificaciones push en tiempo real, con ejemplos como wearables UV (UVI Monitor) o estaciones meteorológicas portátiles, pero faltan soluciones integrales solares y locales para Perú.
