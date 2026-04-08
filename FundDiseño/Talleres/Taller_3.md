@@ -18,7 +18,14 @@ El ESP32 ya integra WiFi/Bluetooth para apps móviles (como Blynk o MIT App Inve
 En el Perú, la radiación alta por nubosidad engañosa (sensación térmica bochornosa), humedad costera y calor urbano afectan a 70% de jóvenes sin hábitos preventivos; ODS 13 aplica por adaptación climática, ODS 7 por recarga solar (reduce baterías desechables), ODS 12 por diseño modular.
 4. Comprobar las posibilidades de realización.
 Con respecto a los costos, esto es viable con ESP32 (costo 44 soles), sensores (10 soles c/u) y app gratuita; prototipo en 2 semanas con Arduino IDE; pruebas en Lima confirman precisión (DHT22 ±2%, SI1145 UVI ±10%); 
-<br>
+5. Diseñar y construir el prototipo.
+Integrar los sensores ambientales con el ESP32 para la adquisición y transmisión de datos en tiempo real.
+6. Desarrollar la aplicación web/móvil:
+Implementar una plataforma que procese los datos recibidos y genere alertas y recomendaciones automáticas (ej. uso de bloqueador o abrigo)
+7. Realizar pruebas experimentales:
+Ejecutar pruebas en condiciones reales (Lima) para verificar la transmisión de datos, estabilidad del sistema y respuesta de la aplicación.
+8. Evaluar el desempeño del sistema:
+Analizar la precisión de los sensores, la eficiencia de la comunicación y la utilidad de las recomendaciones en la prevención de riesgos.
 
 # Lista de citas para el proyecto
 
