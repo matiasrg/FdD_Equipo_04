@@ -12,6 +12,9 @@ Frente a esta problemática, el presente proyecto propone el desarrollo de un di
 <br>
 # Propuesta de solución
 # Objetivos
+## Objetivo general
+
+## Objetivos especificos
 1. Asumir el problema en forma crítica: Estudiantes universitarios el Perú caminan mucho entre clases y paraderos bajo radiación UV extrema (índice 11+), humedad del 80% y temperaturas de 28-33°C, lo que causa quemaduras, deshidratación o golpes de calor; el problema es crítico porque no usan protección por falta de alertas inmediatas, agravado por el cambio climático que intensifica estos riesgos en la costa peruana.
 2. Averiguar el estado de la tecnología: El ESP32 ya integra WiFi/Bluetooth para apps móviles (como Blynk o MIT App Inventor), sensores como DHT22 (temperatura/humedad), SI1145 (UV/radiación); apps dan notificaciones push en tiempo real, con ejemplos como wearables UV (UVI Monitor) o estaciones meteorológicas portátiles, pero faltan soluciones integrales solares y locales para Perú.
 3. Analizar la situación del problema: En el Perú, la radiación alta por nubosidad engañosa (sensación térmica bochornosa), humedad costera y calor urbano afectan a 70% de jóvenes sin hábitos preventivos; ODS 13 aplica por adaptación climática, ODS 7 por recarga solar (reduce baterías desechables), ODS 12 por diseño modular.
