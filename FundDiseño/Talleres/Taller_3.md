@@ -11,7 +11,9 @@ En el Perú, la radiación alta por nubosidad engañosa (sensación térmica boc
 4. Comprobar las posibilidades de realización.
 Con respecto a los costos, esto es viable con ESP32 (costo $45), sensores ($20 c/u) y app gratuita; prototipo en 2 semanas con Arduino IDE; pruebas en Lima confirman precisión (DHT22 ±2%, SI1145 UVI ±10%); 
 <br>
+
 # Lista de citas para el proyecto
+
 <br>
 1. García-Delgado Giménez B, Revilla Guiijarro A. Educación climática en la universidad: aplicación del Test CRAAP contra la desinformación. RIEOEI [Internet]. 30 de enero de 2026 [citado 8 de abril de 2026];100(1):141-59. 
 Disponible en: https://rieoei.org/RIE/article/view/7135
