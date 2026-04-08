@@ -1,4 +1,7 @@
 # Introducción
+
+# Situación Problemática
+
 En la actualidad, la exposición a condiciones ambientales adversas como la radiación ultravioleta, la alta humedad y las elevadas temperaturas representa un riesgo significativo para la salud, especialmente en zonas urbanas como Lima. La radiación UV, en particular, está asociada a efectos nocivos como quemaduras solares y un mayor riesgo de cáncer de piel, lo que hace fundamental la adopción de medidas preventivas oportunas [2,5].
 <br>
 Sin embargo, muchas personas no cuentan con acceso a información ambiental clara, confiable y en tiempo real, lo que dificulta la toma de decisiones adecuadas para su protección. Esta situación se ve agravada por la desinformación y la falta de educación climática, limitando la capacidad de la población para actuar de manera preventiva frente a estos riesgos [1].
@@ -7,7 +10,6 @@ A pesar de que existen tecnologías capaces de medir variables como temperatura,
 <br>
 Frente a esta problemática, el presente proyecto propone el desarrollo de un dispositivo portátil equipado con sensores ambientales y un módulo ESP32, capaz de recopilar datos en tiempo real y transmitirlos a una aplicación móvil. Esta aplicación procesará la información y brindará recomendaciones personalizadas al usuario, como el uso de bloqueador solar o abrigo, contribuyendo así a la prevención de riesgos, la mejora de la calidad de vida y la promoción de la conciencia ambiental.
 <br>
-# Situación Problemática
 # Propuesta de solución
 # Objetivos
 1. Asumir el problema en forma crítica.
