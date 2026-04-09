@@ -51,5 +51,4 @@ Disponible en: https://rieoei.org/RIE/article/view/7135
 
 7. Bhosale P, Kalgaonkar S, Jain D, Bhagwat A. IoT-Based Environmental Monitoring: Tracking Climate Change and Promoting Sustainable Development. En: Internet of Things for Smart Cities and Urban Development [Internet]. Chapman and Hall/CRC; 2025. Disponible en: https://www.taylorfrancis.com/books/9781003539629/chapters/10.1201/9781003539629-3
 
-8.
-Robinson JK, et al. Real-time UV measurement with a sun protection system for warning young adults about sunburn: prospective cohort study. JMIR mHealth and uHealth. 2016;4(3). Disponible en: https://mhealth.jmir.org/2021/5/e25895
+8. Robinson JK, et al. Real-time UV measurement with a sun protection system for warning young adults about sunburn: prospective cohort study. JMIR mHealth and uHealth. 2016;4(3). Disponible en: https://mhealth.jmir.org/2021/5/e25895
