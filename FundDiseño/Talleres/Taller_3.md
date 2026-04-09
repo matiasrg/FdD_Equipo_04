@@ -25,20 +25,15 @@ En general, esta propuesta intenta combinar la incorporación de tecnología fá
 ## Objetivo general
 Diseñar e implementar un prototipo capaz de registrar y monitorear mediciones ambientales locales mediante sensores de temperatura, humedad y radiación UV integrados a un microcontrolador ESP32, y vinculado a una aplicación móvil que procese estos datos en tiempo real para brindar recomendaciones personalizadas de protección y prevención a los usuarios, promoviendo el cuidado de la salud y la toma de decisiones informadas frente a condiciones ambientales adversas.
 ## Objetivos especificos
-1. Asumir el problema en forma crítica: Estudiantes universitarios el Perú caminan mucho entre clases y paraderos bajo radiación UV extrema (índice 11+), humedad del 80% y temperaturas de 28-33°C, lo que causa quemaduras, deshidratación o golpes de calor; el problema es crítico porque no usan protección por falta de alertas inmediatas, agravado por el cambio climático que intensifica estos riesgos en la costa peruana.
-2. Averiguar el estado de la tecnología: El ESP32 ya integra WiFi/Bluetooth para apps móviles (como Blynk o MIT App Inventor), sensores como DHT22 (temperatura/humedad), SI1145 (UV/radiación); apps dan notificaciones push en tiempo real, con ejemplos como wearables UV (UVI Monitor) o estaciones meteorológicas portátiles, pero faltan soluciones integrales solares y locales para Perú.
-3. Analizar la situación del problema: En el Perú, la radiación alta por nubosidad engañosa (sensación térmica bochornosa), humedad costera y calor urbano afectan a 70% de jóvenes sin hábitos preventivos; ODS 13 aplica por adaptación climática, ODS 7 por recarga solar (reduce baterías desechables), ODS 12 por diseño modular.
-4. Comprobar las posibilidades de realización: Con respecto a los costos, esto es viable con ESP32 (costo 44 soles), sensores (10 soles c/u) y app gratuita; prototipo en 2 semanas con Arduino IDE; pruebas en Lima confirman precisión (DHT22 ±2%, SI1145 UVI ±10%); 
-5. Diseñar y construir el prototipo.
-Integrar los sensores ambientales con el ESP32 para la adquisición y transmisión de datos en tiempo real.
-6. Desarrollar la aplicación web/móvil:
-Implementar una plataforma que procese los datos recibidos y genere alertas y recomendaciones automáticas (ej. uso de bloqueador o abrigo)
-7. Realizar pruebas experimentales:
-Ejecutar pruebas en condiciones reales (Lima) para verificar la transmisión de datos, estabilidad del sistema y respuesta de la aplicación.
-8. Evaluar el desempeño del sistema:
-Analizar la precisión de los sensores, la eficiencia de la comunicación y la utilidad de las recomendaciones en la prevención de riesgos.
+1. Averiguar el estado del arte en sistemas de monitoreo ambiental basados en IoT, sensores de temperatura, humedad y radiación; así como el uso del ESP32 en este ámbito.
+2. Evaluar la viabilidad técnica y económica del desarrollo del prototipo que incluye ESP32, sensores, conectividad y plataforma de desarrollo.
+3. Diseñar la arquitectura del sistema, definiendo la integrasión entre el hardware y la aplicación web/móvil.
+4. Construir e implementar el prototipo físico.
+5. Desarrollar la aplicación web/móvil que procese los datos recibidos y genere alertas y recomendaciones automáticas (ej. uso de bloqueador o abrigo)
+6. Realizar pruebas experimentales en condiciones reales para verificar la transmisión de datos, estabilidad del sistema y respuesta de la aplicación.
+7. Evaluar el desempeño del sistema analizando la precisión de los sensores, la eficiencia de la comunicación y la utilidad de las recomendaciones en la prevención de riesgos.
 
-# Lista de citas para el proyecto
+# Bibliografía
 
 <br>
 1. García-Delgado Giménez B, Revilla Guiijarro A. Educación climática en la universidad: aplicación del Test CRAAP contra la desinformación. RIEOEI [Internet]. 30 de enero de 2026 [citado 8 de abril de 2026];100(1):141-59. 
