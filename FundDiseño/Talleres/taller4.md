@@ -5,7 +5,9 @@
    -Código: US12409241B2
    -link: https://worldwide.espacenet.com/patent/search/family/073196745/publication/US12409241B2?q=pn%3DUS12409241B2
    -Imagen:
-
+       <div align="center">
+         <img src="/Recursos/Imágenes/Patente1.png" width="600"/>
+      </div>
 
 2. **Sistema de gestión de inventarios basado en inteligencia artificial para monitorear la disponibilidad de productos mediante datos IoT**
    (KI-gestütztes Bestandsverwaltungssystem zur Überwachung der Produktverfügbarkeit mithilfe von IoT-Daten)
@@ -14,6 +16,9 @@
   -Código: DE202025101045U1
   -Link: https://worldwide.espacenet.com/patent/search/family/095158102/publication/DE202025101045U1?q=pn%3DDE202025101045U1
   -Imagen:
+   <div align="center">
+         <img src="/Recursos/Imágenes/Patente2" width="600"/>
+      </div>
 
 3. **Sistema, dispositivo y métodos para el seguimiento de la exposición a la luz**
     (Light exposure tracking system, device, and methods)
@@ -21,3 +26,6 @@
    -Código: US11579015B2
    -Link: https://worldwide.espacenet.com/patent/search/family/065362927/publication/US11579015B2?q=pn%3DUS11579015B2
    -Imágen:
+    <div align="center">
+         <img src="/Recursos/Imágenes/Patente3.png" width="600"/>
+      </div>
