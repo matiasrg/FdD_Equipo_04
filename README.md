@@ -16,7 +16,7 @@ En la actualidad, se evidencia una creciente problemática relacionada con la fa
 
 Esta situación se agrava en ciudades como Lima, donde los cambios climáticos suelen ser repentinos e impredecibles, generando confusión en la población sobre cómo prepararse antes de salir de casa. Como consecuencia, se incrementa la exposición a riesgos como la radiación solar, cambios bruscos de temperatura o condiciones ambientales inadecuadas que pueden afectar el bienestar físico.
 
-Además, la falta de información adecuada favorece la desinformación y limita la capacidad de las personas para tomar decisiones basadas en evidencia, ya que la información errónea o poco clara puede generar confusión, desconfianza y conductas inadecuadas frente al cuidado de la salud y el ambiente (García-Delgado Giménez & Revilla Guijarro, 2026).  ￼
+Además, la falta de información adecuada favorece la desinformación y limita la capacidad de las personas para tomar decisiones basadas en evidencia, ya que la información errónea o poco clara puede generar confusión, desconfianza y conductas inadecuadas frente al cuidado de la salud y el ambiente.[1]  ￼
 
 En este contexto, se identifica una brecha importante entre la disponibilidad de datos ambientales y su acceso comprensible y útil para la población, lo cual impacta directamente en la salud (ODS 3), el consumo responsable (ODS 12) y la acción frente al cambio climático (ODS 13).
 <br> 
@@ -52,15 +52,19 @@ Somos el equipo 04 del curso <strong> Fundamentos de diseño 2026-01 </strong>, 
 Nuestro objetivo es aplicar la metodología de diseño para generar soluciones innovadoras con impacto social, tecnológico y ambiental.
 Nos interesa trabajar en los siguientes Objetivos de Desarrollo Sostenible (ODS):
 
+ODS 3: Salud y bienestar
+<br>
+Al convertir datos ambientales en alertas personalizadas, ayudamos a los usuarios a protegerse antes de que el daño ocurra, contribuyendo así a la meta del ODS 3 de reducir enfermedades no transmisibles mediante la prevención y la promoción del bienestar.[2]
+
 ODS 7: Energia asequible y no contaminante.
 <br>
-Para que nuestra propuesta sea coherente, promueve el uso eficiente de la energía. Al medir temperatura, humedad y radiación, permite que los usuarios tomen decisiones como reducir el uso de aire acondicionado, calefacción o iluminación artificial, disminuyendo así el consumo energético.
+Para que nuestra propuesta sea coherente, promueve el uso eficiente de la energía. Al medir temperatura, humedad y radiación, permite que los usuarios tomen decisiones como reducir el uso de aire acondicionado, calefacción o iluminación artificial, disminuyendo así el consumo energético.[2]
 
 <br>
 ODS 12: Producción y consumo responsable.
 <br>
 <br>
-Nuestra prioridad es prolongar la vida útil del equipo. En lugar de crear un producto desechable, nos inclinamos por un diseño reparable y reacondicionable. Esto significa que el aparato estará pensado para que sus piezas puedan ser revisadas o cambiadas fácilmente si se desgastan. Al evitar que el dispositivo se convierta en basura tecnológica prematura, fomentamos un consumo responsable donde la durabilidad es la característica principal, asegurando que la inversión de la comunidad rinda por mucho más tiempo.
+Nuestra prioridad es prolongar la vida útil del equipo. En lugar de crear un producto desechable, nos inclinamos por un diseño reparable y reacondicionable. Esto significa que el aparato estará pensado para que sus piezas puedan ser revisadas o cambiadas fácilmente si se desgastan. Al evitar que el dispositivo se convierta en basura tecnológica prematura, fomentamos un consumo responsable donde la durabilidad es la característica principal, asegurando que la inversión de la comunidad rinda por mucho más tiempo.[2]
 
 <br>
 <br>
@@ -68,7 +72,7 @@ ODS 13: Acción por el clima
 <br>
 <br>
 Queremos enfocarnos en combatir los efectos del cambio climático que afectan la salud física. Estamos expuestos constantemente a niveles de humedad y radiación que han dejado de ser normales. Nuestra intención es ofrecer una herramienta de protección que ayude a las personas a adaptarse a estos riesgos. Al transformar los datos del clima en alertas directas, permitimos que la gente tome acciones inmediatas para evitar daños por la exposición prolongada, enfrentando así las consecuencias reales del calentamiento global en nuestro entorno local.
-<br>
+<br>[2]
 
 #  📸 Fotografia del equipo 
 <p align="center">
@@ -91,5 +95,7 @@ Queremos enfocarnos en combatir los efectos del cambio climático que afectan la
 # Referencias 
 1. García-Delgado Giménez B, Revilla Guijarro A. Educación climática en la universidad: aplicación del Test CRAAP contra la desinformación. Rev Iberoam Educ. 2026;100(1):141-159.
 https://rieoei.org/RIE/article/view/7135
+2. Programa de las Naciones Unidas para el Desarrollo (PNUD). Objetivo 3: Salud y Bienestar. En: Objetivos de Desarrollo Sostenible [Internet]. Nueva York: PNUD; 2015 [citado 20 abr 2026]. Disponible en: https://www.undp.org/es/sustainable-development-goals
+
 # 📌Resumen final 
 Este README resume quiénes somos, qué nos motiva y en qué ODS queremos enfocar nuestro trabajo durante el curso
