@@ -9,8 +9,8 @@
 | Norma | Organismo | Aplicación dentro de EcoAlerta |
 |---|---|---|
 | Global Solar UV Index: A Practical Guide | OMS (WHO) | Define la escala del Índice UV (1–11+) que el sistema debe mostrar como salida |
-| ISO 17166:1999 / CIE S 007/E-1998 | ISO / CIE | Función de acción eritema: base matemática para convertir irradiancia UV en el valor del IUV |
-| IEC/EN 62471 | IEC | Seguridad fotobiológica: clasificación de riesgo y criterios de medición/calibración del sensor UV |
+| ISO/CIE 17166:2019 | ISO / CIE | Espectro de acción eritemática y dosis estándar de eritema: base para evaluar la exposición biológica a la radiación UV |
+| IEC 62471-7:2023 | IEC | Seguridad fotobiológica y evaluación de riesgos asociados a la radiación óptica (UV, visible e infrarroja) |
 
 ---
 
@@ -31,15 +31,17 @@ Esta guía es la **referencia normativa principal** para una de las salidas cent
 
 ---
 
-## 2. ISO 17166:1999 / CIE S 007/E-1998 — Función de acción eritema (espectro de acción CIE)
+## 2. ISO/CIE 17166:2019 — Erythema Reference Action Spectrum and Standard Erythema Dose
 
 **Organismo:** International Organization for Standardization (ISO) / Commission Internationale de l'Éclairage (CIE)
 
 ### Descripción
-Esta norma conjunta ISO/CIE define la **función de acción eritema**, es decir, la curva de ponderación espectral que describe qué tan eficaz es cada longitud de onda del espectro UV para producir eritema (quemadura solar) en la piel humana. Esta función es la base matemática oficial mediante la cual se transforma la **irradiancia espectral UV** medida por un sensor en el **valor numérico del Índice UV**.
+
+La norma ISO/CIE 17166:2019 establece el espectro de acción eritemática de referencia y la Dosis Eritemática Estándar (SED), utilizados para evaluar los efectos biológicos de la radiación ultravioleta sobre la piel humana. Define los métodos para calcular la irradiancia eritemática y cuantificar la exposición a la radiación UV considerando la capacidad de cada longitud de onda para producir eritema o quemaduras solares.
 
 ### Aporte para EcoAlerta
-Mientras que la guía de la OMS define **qué significa** cada valor del IUV, esta norma ISO/CIE explica **cómo se calcula** ese valor a partir de la señal cruda que entrega el sensor UV (ML8511/LTR390). Es el eslabón técnico que falta entre "el sensor mide radiación" y "la app muestra un número del 1 al 11+": sin esta función de ponderación, no habría una forma estandarizada y reproducible de convertir la lectura física del sensor en el índice que pide la Lista de Exigencias. Esta norma respalda directamente el procesamiento de datos que debe ocurrir en el software embebido del microcontrolador (sección "Software — dispositivo electrónico" de la Lista de Exigencias).
+
+Esta norma proporciona el fundamento científico para interpretar la radiación ultravioleta medida por el sensor, relacionando la energía recibida con los posibles efectos biológicos sobre la piel humana. Gracias a ella, EcoAlerta puede respaldar técnicamente la evaluación del nivel de exposición UV y asociar los valores medidos con criterios internacionalmente reconocidos de riesgo para la salud.
 
 **Aportes concretos:**
 - Provee la base matemática para convertir irradiancia UV en el Índice UV (IUV).
@@ -48,19 +50,20 @@ Mientras que la guía de la OMS define **qué significa** cada valor del IUV, es
 
 ---
 
-## 3. IEC/EN 62471 — Seguridad fotobiológica de lámparas y sistemas de lámparas
+## 3. IEC 62471-7:2023 — Seguridad fotobiológica de lámparas y sistemas de lámparas
 
 **Organismo:** International Electrotechnical Commission (IEC)
 
 ### Descripción
-La norma IEC/EN 62471 establece los criterios de **clasificación de riesgo fotobiológico** y los métodos de medición y evaluación de fuentes de radiación óptica (incluyendo UV), determinando los límites de exposición segura para distintos grupos de riesgo. Es una norma ampliamente utilizada como referencia para calibración y clasificación de seguridad en dispositivos que miden o emiten radiación óptica.
+
+La norma IEC 62471-7:2023 establece criterios para evaluar los riesgos fotobiológicos asociados a la radiación óptica emitida por distintas fuentes luminosas. Considera la radiación ultravioleta, la luz azul, la radiación visible y la infrarroja, definiendo procedimientos de medición, evaluación y límites de exposición destinados a proteger la piel y los ojos frente a posibles daños.
 
 ### Aporte para EcoAlerta
 Esta norma respalda directamente la sección de **Seguridad** de la Lista de Exigencias, que exige que "los componentes estarán protegidos frente a condiciones ambientales (humedad, calor y exposición solar), evitando fallos o riesgos" y que el sistema garantice un funcionamiento seguro tanto a nivel físico como digital. Aunque EcoAlerta no es una fuente emisora de UV sino un dispositivo de medición, esta norma aporta los criterios de **calibración y clasificación de riesgo radiológico** que permiten validar que las lecturas del sensor UV sean confiables y estén dentro de parámetros de medición reconocidos internacionalmente, reforzando la fiabilidad de las alertas de salud que el sistema comunica al usuario.
 
 **Aportes concretos:**
 - Aporta criterios de calibración y validación para el sensor UV del prototipo.
-- Respalda la clasificación de riesgo radiológico mencionada en la Lista de Exigencias.
+- Proporciona criterios reconocidos internacionalmente para evaluar la exposición segura a la radiación UV.
 - Da un marco de referencia reconocido para garantizar la confiabilidad de las mediciones.
 
 ---
@@ -70,7 +73,7 @@ Esta norma respalda directamente la sección de **Seguridad** de la Lista de Exi
 | Norma | Responde a la pregunta... | Sección de la Lista de Exigencias que respalda |
 |---|---|---|
 | OMS — Global Solar UV Index | ¿Qué significa el número que ve el usuario? | Señales (dispositivo físico y app móvil) |
-| ISO 17166 / CIE S 007 | ¿Cómo se calcula ese número a partir del sensor? | Software (dispositivo electrónico) |
-| IEC/EN 62471 | ¿Qué tan confiable y seguro es el sensor que mide? | Seguridad |
+| ISO/CIE 17166:2019 | ¿Cómo se relaciona la radiación UV medida con sus efectos sobre la piel? |
+| IEC 62471-7:2023 | ¿Cómo se evalúa la seguridad y exposición frente a la radiación UV? |
 
 Las tres normas, en conjunto, cubren el flujo completo de la variable más importante del sistema — el Índice UV — desde su **medición física confiable** (IEC 62471), pasando por su **cálculo estandarizado** (ISO/CIE), hasta su **comunicación comprensible al usuario** (OMS). Esta cadena normativa demuestra que EcoAlerta no construye su funcionalidad central de forma arbitraria, sino sobre estándares técnicos y de salud pública reconocidos internacionalmente.
