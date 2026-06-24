@@ -1,6 +1,6 @@
 # Descripción y aporte de artículos
 
-> ·Revisión de literatura científica sobre arquitecturas IoT ambientales y dispositivos wearables, como respaldo técnico y académico de la propuesta EcoAlerta
+> Revisión de literatura científica sobre arquitecturas IoT ambientales y dispositivos wearables, como respaldo técnico y académico de la propuesta EcoAlerta
 ---
 
 ## Tabla comparativa
