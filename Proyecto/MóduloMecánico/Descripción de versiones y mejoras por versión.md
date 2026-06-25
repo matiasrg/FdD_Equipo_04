@@ -18,3 +18,6 @@ La v2 constituye el diseño final consolidado. En esta fase se aplicaron las cor
 * **Rediseño del Acoplamiento UV:** Modificaciones geométricas en la tapa de los sensores mediante un rebaje circular escalonado para lograr un acoplamiento estanco y seguro del sensor UV, garantizando que quede alineado y protegido frente al exterior.
 * **Consolidación del Ensamblaje Electromecánico:** Inclusión real de la arquitectura interna completa dentro del modelo final. Esto abarca el posicionamiento exacto de los prensaestopas, el conector de chasis, el switch, la placa de soporte perforada, el sensor UV y el sensor de temperatura/humedad DHT11.
 * **División Estructural de Tapas:** Configuración definitiva de la cubierta superior dividida en dos piezas independientes (Tapa del ESP32 y Tapa de los sensores), optimizando el acceso por separado a la electrónica de procesamiento o al módulo de sensores durante tareas de mantenimiento.
+
+Enlace de Onshape: 
+[https://cad.onshape.com/documents/be05ffe52afa9a955caa7767/w/59e88b758aaaabc94f50e5dc/e/23231b023377f0eafd262c30](https://cad.onshape.com/documents/be05ffe52afa9a955caa7767/w/59e88b758aaaabc94f50e5dc/e/23231b023377f0eafd262c30)
