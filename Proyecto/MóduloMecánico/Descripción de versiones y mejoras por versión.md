@@ -11,7 +11,7 @@ En esta primera etapa se validaron los volúmenes, la distribución interna y la
 * **Cavidades de Control e Interfaz:** Apertura de agujeros iniciales destinados a la instalación de un botón de encendido/apagado, fijaciones para tornillos de cierre y perforaciones para el paso de cables mediante prensaestopas.
 * **Ventana de Monitoreo UV:** Maquetado de los primeros agujeros en la sección superior de la tapa de los sensores para permitir la exposición del sensor de radiación ultravioleta.
 
-### Versión 2 (v2) - Versión Final: Ajustes de Chasis e Integración de Componentes
+### Versión 2 (vfinal) - Versión Final: Ajustes de Chasis e Integración de Componentes
 La v2 constituye el diseño final consolidado. En esta fase se aplicaron las correcciones de tolerancia milimétrica y se incorporaron físicamente todos los elementos comerciales y de hardware dentro del entorno 3D:
 * **Estandarización de Perforaciones de Salida:** Ajuste y calibración exacta de los agujeros del contenedor para albergar de forma hermética prensaestopas comerciales de tipo PG7.
 * **Mecanizado Especial para Conectores de Chasis:** Modificación de las aberturas del panel frontal para asegurar el calce perfecto de un conector de alimentación USB Tipo-C de empotrar y un interruptor general (switch) basculante.
