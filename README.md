@@ -89,7 +89,7 @@ Queremos enfocarnos en combatir los efectos del cambio climático que afectan la
 | <img src="Recursos/Imágenes/imagenmatias.jpeg" width="100" /> | Matías Rivera | Lider del grupo | Innovación social, sostenibilidad |
 | <img src="Recursos/Imágenes/saorijimenez.png" width="100" /> | Saori Jiménez| Programador | Programación, análisis de datos, prototipado | 
 | <img src="Recursos/Imágenes/jesilinsantos.png" width="100" />| Jesilin Santos| Responsable de investigación | Analisis de problemáticas, Enfoque de soluciones responsables | 
-| <img src="Recursos/Imágenes/Fotos%20en%20grupos/Fotos%20individuales/adrianardpinoza.png" width="100" /> | Adriana Espinoza| Diseñadora | Prototipo y maquetas | Creatividad estetica |
+| <img src="Recursos/Imágenes/adrianardpinoza.png" width="100" /> | Adriana Espinoza| Diseñadora | Prototipo y maquetas | Creatividad estetica |
 | <img src="Recursos/Imágenes/josepalacios.png" width="100" /> | Jose Palacios| Encargado/a de documentación | documentación científica, redacción técnica | 
 
 # Referencias 
