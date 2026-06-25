@@ -10,7 +10,7 @@ El desarrollo del módulo mecánico se ejecutó en dos etapas principales de dis
 * **Perforaciones de Control:** Integración de cavidades previas para el botón de encendido/apagado e inserciones cilíndricas para el paso de cables mediante prensaestopas.
 * **Fijación Mecánica:** Implementación de columnas internas con agujeros guía para la sujeción de tapas mediante tornillos de rosca métrica.
 
-### Versión 2 (v2) / Versión Final: Integración, Ajustes y Tolerancias de Chasis
+### Versión Final (vfinal) / Versión Final: Integración, Ajustes y Tolerancias de Chasis
 * **Optimización de Conectividad Externa:** Ajuste milimétrico y estandarización de las perforaciones de salida para prensaestopas (compatibles con el modelo comercial PG7). Además, se realizó el mecanizado específico del agujero adecuado para un conector de chasis USB-C empotrable y el switch de encendido.
 * **Rediseño de la Tapa de Sensores:** Modificación geométrica de la cubierta superior para incluir un rebaje circular y un acoplamiento dedicado que posiciona el sensor UV expuesto directamente al exterior de forma estanca.
 * **Incorporación de Componentes Digitales en Ensamblaje:** Inclusión e indexación real dentro del entorno 3D de todas las piezas de hardware: prensaestopas PG7, conector USB-C de chasis, switch, placa electrónica perforada de soporte, módulo de desarrollo ESP32, sensor UV y sensor DHT11/DHT22.
