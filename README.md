@@ -86,11 +86,11 @@ Queremos enfocarnos en combatir los efectos del cambio climático que afectan la
 
 | Foto | Nombre | Rol | Intereses | 
 | ---- | ------ | --- | --------- | 
-| <img src="Recursos/Imágenes/imagenmatias.jpeg" width="100" /> | Matías Rivera | Lider del grupo | Innovación social, sostenibilidad |
-| <img src="Recursos/Imágenes/saorijimenez.png" width="100" /> | Saori Jiménez| Programador | Programación, análisis de datos, prototipado | 
-| <img src="Recursos/Imágenes/Fotos%20en%20grupo/Fotos%20individuales/Jesilin%20Santos.jpeg" width="100"/>| Jesilin Santos| Responsable de investigación | Analisis de problemáticas, Enfoque de soluciones responsables | 
-| <img src="Recursos/Imágenes/adrianardpinoza.png" width="100" /> | Adriana Espinoza| Diseñadora | Prototipo y maquetas | Creatividad estetica |
-| <img src="Recursos/Imágenes/josepalacios.png" width="100" /> | Jose Palacios| Encargado/a de documentación | documentación científica, redacción técnica | 
+| <img src="Recursos/Imágenes/Fotos%20en%20grupo/Fotos%20individuales/Matias%20Rivera.jpeg" width="100"/> | Matías Rivera | Lider del grupo | Innovación social, sostenibilidad |
+| <img src="Recursos/Imágenes/Fotos%20en%20grupo/Fotos%20individuales/Saori%20Jimenez_formal.jpg" width="100"/> | Saori Jiménez| Programador | Programación, análisis de datos, prototipado | 
+| <img src="Recursos/Imágenes/Fotos%20en%20grupo/Fotos%20individuales/Jesilin%20Santos_formal.jpeg" width="100"/>| Jesilin Santos| Responsable de investigación | Analisis de problemáticas, Enfoque de soluciones responsables | 
+| <img src="Recursos/Imágenes/Fotos%20en%20grupo/Fotos%20individuales/Adriana%20Espinoza_formal.jpg" width="100"/> | Adriana Espinoza| Diseñadora | Prototipo y maquetas | Creatividad estetica |
+| <img src="Recursos/Imágenes/Fotos%20en%20grupo/Fotos%20individuales/Jose%20Palacios_.png" width="100"/> | Jose Palacios| Encargado/a de documentación | documentación científica, redacción técnica | 
 
 # Referencias 
 1. García-Delgado Giménez B, Revilla Guijarro A. Educación climática en la universidad: aplicación del Test CRAAP contra la desinformación. Rev Iberoam Educ. 2026;100(1):141-159.
