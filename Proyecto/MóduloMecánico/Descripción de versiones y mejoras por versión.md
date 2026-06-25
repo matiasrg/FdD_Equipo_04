@@ -1,18 +1,20 @@
 # Módulo Mecánico - EcoAlerta
 
-## Descripción de Versiones y Mejoras del Chasis
+## Evolución del Diseño Mecánico y Consolidación de Versiones
 
-El desarrollo del módulo mecánico se ejecutó en dos etapas principales de diseño, evolucionando desde un prototipo funcional básico hasta un ensamblaje integrado con tolerancias industriales listo para manufactura en PETG.
+El desarrollo del chasis y los componentes de sujeción del dispositivo **EcoAlerta** se estructuró en dos etapas de diseño (v1 y v2), evolucionando desde una distribución analítica de componentes separados hasta un ensamblaje final integrado y acotado para manufactura.
 
-### Versión 1 (v1): Prototipo Base y Distribución Funcional
-* **Diseño de Bloques Independientes:** Configuración inicial del contenedor principal con divisiones y componentes tratados por separado para validar el volumen total requerido.
-* **Ventilación Pasiva:** Incorporación de rejillas de ventilación lineales en la estructura exterior para permitir el flujo de aire.
-* **Perforaciones de Control:** Integración de cavidades previas para el botón de encendido/apagado e inserciones cilíndricas para el paso de cables mediante prensaestopas.
-* **Fijación Mecánica:** Implementación de columnas internas con agujeros guía para la sujeción de tapas mediante tornillos de rosca métrica.
+### Versión 1 (v1): Configuración Base y Distribución Espacial
+En esta primera etapa se validaron los volúmenes, la distribución interna y las aberturas necesarias para la interacción de los componentes con el entorno:
+* **Estructura por Bloques Separados:** Configuración del contenedor principal dividiendo el espacio para alojar de forma independiente los sistemas de energía, control y sensado.
+* **Circulación de Aire:** Inclusión de rejillas lineales directamente en el chasis exterior para permitir la ventilación pasiva y la renovación del aire interno.
+* **Cavidades de Control e Interfaz:** Apertura de agujeros iniciales destinados a la instalación de un botón de encendido/apagado, fijaciones para tornillos de cierre y perforaciones para el paso de cables mediante prensaestopas.
+* **Ventana de Monitoreo UV:** Maquetado de los primeros agujeros en la sección superior de la tapa de los sensores para permitir la exposición del sensor de radiación ultravioleta.
 
-### Versión Final (vfinal) / Versión Final: Integración, Ajustes y Tolerancias de Chasis
-* **Optimización de Conectividad Externa:** Ajuste milimétrico y estandarización de las perforaciones de salida para prensaestopas (compatibles con el modelo comercial PG7). Además, se realizó el mecanizado específico del agujero adecuado para un conector de chasis USB-C empotrable y el switch de encendido.
-* **Rediseño de la Tapa de Sensores:** Modificación geométrica de la cubierta superior para incluir un rebaje circular y un acoplamiento dedicado que posiciona el sensor UV expuesto directamente al exterior de forma estanca.
-* **Incorporación de Componentes Digitales en Ensamblaje:** Inclusión e indexación real dentro del entorno 3D de todas las piezas de hardware: prensaestopas PG7, conector USB-C de chasis, switch, placa electrónica perforada de soporte, módulo de desarrollo ESP32, sensor UV y sensor DHT11/DHT22.
-* **Desacoplamiento de Cubiertas:** División de la zona superior en dos tapas independientes (Tapa del ESP32 y Tapa de los sensores), permitiendo abrir el compartimento de medición ambiental o de procesamiento de forma independiente para facilitar el mantenimiento.ntro del entorno 3D de todas las piezas de hardware: prensaestopas PG7, conector USB-C de chasis, interruptor de palanca/switch, placa electrónica perforada de soporte, módulo de desarrollo ESP32, sensor UV y sensor DHT11/DHT22.
-* **Desacoplamiento de Cubiertas:** División de la zona superior en dos tapas independientes (Tapa del ESP32 y Tapa de los sensores), permitiendo abrir el compartimento de medición ambiental sin exponer la electrónica de procesamiento principal.
+### Versión 2 (v2) - Versión Final: Ajustes de Chasis e Integración de Componentes
+La v2 constituye el diseño final consolidado. En esta fase se aplicaron las correcciones de tolerancia milimétrica y se incorporaron físicamente todos los elementos comerciales y de hardware dentro del entorno 3D:
+* **Estandarización de Perforaciones de Salida:** Ajuste y calibración exacta de los agujeros del contenedor para albergar de forma hermética prensaestopas comerciales de tipo PG7.
+* **Mecanizado Especial para Conectores de Chasis:** Modificación de las aberturas del panel frontal para asegurar el calce perfecto de un conector de alimentación USB Tipo-C de empotrar y un interruptor general (switch) basculante.
+* **Rediseño del Acoplamiento UV:** Modificaciones geométricas en la tapa de los sensores mediante un rebaje circular escalonado para lograr un acoplamiento estanco y seguro del sensor UV, garantizando que quede alineado y protegido frente al exterior.
+* **Consolidación del Ensamblaje Electromecánico:** Inclusión real de la arquitectura interna completa dentro del modelo final. Esto abarca el posicionamiento exacto de los prensaestopas, el conector de chasis, el switch, la placa de soporte perforada, el sensor UV y el sensor de temperatura/humedad DHT11.
+* **División Estructural de Tapas:** Configuración definitiva de la cubierta superior dividida en dos piezas independientes (Tapa del ESP32 y Tapa de los sensores), optimizando el acceso por separado a la electrónica de procesamiento o al módulo de sensores durante tareas de mantenimiento.
