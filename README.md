@@ -76,7 +76,7 @@ Queremos enfocarnos en combatir los efectos del cambio climático que afectan la
 
 #  📸 Fotografia del equipo 
 <p align="center">
-<img width="1408" height="770" alt="grupal" src="Recursos/Imágenes/grupal.png" />
+<img width="1408" height="770" alt="grupal" src="Recursos/Imágenes/Fotos%20en%20grupo/Fotos%20Grupales/Foto%20grupal_formal.png" />
   <em>
   Figura 1. Fotografia del Equipo 4
 </p>
