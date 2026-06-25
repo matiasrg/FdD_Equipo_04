@@ -87,9 +87,9 @@ Queremos enfocarnos en combatir los efectos del cambio climático que afectan la
 | Foto | Nombre | Rol | Intereses | 
 | ---- | ------ | --- | --------- | 
 | <img src="Recursos/Imágenes/Fotos%20en%20grupo/Fotos%20individuales/Matias%20Rivera.jpeg" width="100"/> | Matías Rivera | Lider del grupo | Innovación social, sostenibilidad |
-| <img src="Recursos/Imágenes/Fotos%20en%20grupo/Fotos%20individuales/Saori%20Jimenez_formal.jpg" width="100"/> | Saori Jiménez| Programador | Programación, análisis de datos, prototipado | 
-| <img src="Recursos/Imágenes/Fotos%20en%20grupo/Fotos%20individuales/Jesilin%20Santos_formal.jpeg" width="100"/>| Jesilin Santos| Responsable de investigación | Analisis de problemáticas, Enfoque de soluciones responsables | 
-| <img src="Recursos/Imágenes/Fotos%20en%20grupo/Fotos%20individuales/Adriana%20Espinoza_formal.jpg" width="100"/> | Adriana Espinoza| Diseñadora | Prototipo y maquetas | Creatividad estetica |
+| <img src="Recursos/Imágenes/Fotos%20en%20grupo/Fotos%20individuales/Saori%20Jimenez_formal.png" width="100"/> | Saori Jiménez| Programador | Programación, análisis de datos, prototipado | 
+| <img src="Recursos/Imágenes/Fotos%20en%20grupo/Fotos%20individuales/Jesilin%20Santos_formal.png" width="100"/>| Jesilin Santos| Responsable de investigación | Analisis de problemáticas, Enfoque de soluciones responsables | 
+| <img src="Recursos/Imágenes/Fotos%20en%20grupo/Fotos%20individuales/Adriana%20Espinoza_formal.png" width="100"/> | Adriana Espinoza| Diseñadora | Prototipo y maquetas | Creatividad estetica |
 | <img src="Recursos/Imágenes/Fotos%20en%20grupo/Fotos%20individuales/Jose%20Palacios_.png" width="100"/> | Jose Palacios| Encargado/a de documentación | documentación científica, redacción técnica | 
 
 # Referencias 
