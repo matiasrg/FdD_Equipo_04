@@ -86,11 +86,11 @@ Queremos enfocarnos en combatir los efectos del cambio climático que afectan la
 
 | Foto | Nombre | Rol | Intereses | 
 | ---- | ------ | --- | --------- | 
-| <img src="Recursos/Imágenes/imagenmatias.jpeg" width="100" /> | Matías | Lider del grupo | Innovación social, sostenibilidad |
-| <img src="Recursos/Imágenes/saori.jpg" width="100" /> | Saori | Programador | Programación, análisis de datos, prototipado | 
-| <img src="Recursos/Imágenes/imagenjes.jpeg" width="100" />| Jesilin | Responsable de investigación | Analisis de problemáticas, Enfoque de soluciones responsables | 
-| <img src="Recursos/Imágenes/imagenadriana.jpeg" width="100" /> | Adriana | Diseñadora | Prototipo y maquetas | Creatividad estetica |
-| <img src="Recursos/Imágenes/jose.png" width="100" /> | Jose | Encargado/a de documentación | documentación científica, redacción técnica | 
+| <img src="Recursos/Imágenes/imagenmatias.jpeg" width="100" /> | Matías Rivera | Lider del grupo | Innovación social, sostenibilidad |
+| <img src="Recursos/Imágenes/saori.jpg" width="100" /> | Saori Jiménez| Programador | Programación, análisis de datos, prototipado | 
+| <img src="Recursos/Imágenes/imagenjes.jpeg" width="100" />| Jesilin Santos| Responsable de investigación | Analisis de problemáticas, Enfoque de soluciones responsables | 
+| <img src="Recursos/Imágenes/imagenadriana.jpeg" width="100" /> | Adriana Espinoza| Diseñadora | Prototipo y maquetas | Creatividad estetica |
+| <img src="Recursos/Imágenes/jose.png" width="100" /> | Jose Palacios| Encargado/a de documentación | documentación científica, redacción técnica | 
 
 # Referencias 
 1. García-Delgado Giménez B, Revilla Guijarro A. Educación climática en la universidad: aplicación del Test CRAAP contra la desinformación. Rev Iberoam Educ. 2026;100(1):141-159.
