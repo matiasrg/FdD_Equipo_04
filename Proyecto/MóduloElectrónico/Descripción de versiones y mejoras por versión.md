@@ -1,6 +1,8 @@
 # Descripción de versiones y mejoras por versión
 
-Equipo 04. Historial de evolución del esquemático electrónico del proyecto EcoAlerta, sistema portátil de monitoreo UV y ambiental basado en ESP32.
+> Historial de evolución del esquemático electrónico del proyecto EcoAlerta, sistema portátil de monitoreo UV y ambiental basado en ESP32.
+
+---
 
 ## Tabla comparativa
 
